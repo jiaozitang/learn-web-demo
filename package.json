@@ -1,0 +1,23 @@
+{
+  "name": "learn-web-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaozitang/learn-web-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaozitang/learn-web-demo/issues"
+  },
+  "homepage": "https://github.com/jiaozitang/learn-web-demo#readme",
+  "devDependencies": {
+    "redux": "^4.1.2"
+  }
+}
